@@ -17,7 +17,7 @@ sap.ui.define([
 		 * @override
 		 */
 		init: function() {
-			// call the base component's init function
+			// call the base component's init function89898
 			UIComponent.prototype.init.apply(this, arguments);
 
 			// set the device model
